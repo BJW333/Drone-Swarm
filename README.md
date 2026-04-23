@@ -1,4 +1,4 @@
-# DroneSwarm AI
+# DroneSwarm
 
 A modular Python framework for simulating autonomous drone swarms with decentralized intelligence. Supports multi-layer obstacle avoidance, mesh network communications, leader election, mission planning, and real-time 3D visualization.
 
